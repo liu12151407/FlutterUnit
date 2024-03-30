@@ -1,37 +1,72 @@
 
+### FlutterUnit 全平台下载体验:
+
+| 平台类型 | 下载地址                                                                                                         | 项目分支地址  | 相关文章 | 
+|------|--------------------------------------------------------------------------------------------------------------|------|------------|
+| Android版 | [FlutterUnit.apk](https://github.com/toly1994328/FlutterUnit/releases/download/v3.0.0/FlutterUnit.apk)       |[flutter_unit](https://github.com/toly1994328/FlutterUnit)| [《FlutterUnit食用指南》](https://juejin.im/post/6844904147045597191)|
+| iOS版 | [FlutterUnit in AppStore](https://apps.apple.com/cn/app/flutter-unit/id6450545123)                           |[flutter_unit](https://github.com/toly1994328/FlutterUnit)| [《FlutterUnit 食用指南》](https://juejin.im/post/6844904147045597191)|
+| MacOS版 | [FlutterUnitMac.zip](https://github.com/toly1994328/FlutterUnit/releases/download/v3.0.0/FlutterUnitMac.zip) |[flutter_unit](https://github.com/toly1994328/FlutterUnit/tree/flutter_unit)| [《mac版闪亮登场》](https://juejin.im/post/6844904147817332743)|
+| Windows版 | [FlutterUnitWin.zip](https://github.com/toly1994328/FlutterUnit/releases/download/v3.0.0/FlutterUnitWin.zip) | [flutter_unit](https://github.com/toly1994328/FlutterUnit/tree/flutter_unit) | [《win版闪亮登场》](https://juejin.im/post/6847902222626488327)|
+| Web版 | http://toly1994328.gitee.io/flutter_web                                                                      | [ flutter_unit_web ](https://github.com/toly1994328/FlutterUnit/tree/flutter_unit_web)  | [《web版闪亮登场》](https://juejin.im/post/6859888713980182541)|
+
+
 #### Flutter Unit 周边
-- 🔥  [实体书 - 《Flutter之旅》源码下载地址 ](https://gitee.com/toly1994328/FlutterUnit/attach_files/466731/download)
+- 🔥 [免费] [掘金小册 -《Flutter 入门教程》](https://juejin.cn/book/7212822723330834487)
+- 🔥  [掘金小册 -《Flutter 语言基础 - 梦始之地》](https://juejin.cn/book/6844733827617652750)
 - 🔥  [掘金小册 -《Flutter 绘制指南 - 妙笔生花》](https://juejin.im/book/6844733827265331214)
 - 🔥  [掘金小册 -《Flutter 手势探索 - 执掌天下》](https://juejin.cn/book/6896378716427911181)
-- 🔥  [Flutter环境配置](https://github.com/toly1994328/FlutterUnit/issues/22)
-- 🔥  [Flutter实用插件集录 ](https://github.com/toly1994328/FlutterUnit/issues/41)
-- 🔥  [Flutter要点集录 ](https://github.com/toly1994328/FlutterUnit/labels/point)
-
-
-### FlutterUnit 下载体验: 复制链接，在浏览器下载~
-
-
-| 平台类型 | 下载地址 | 项目分支地址  | 相关文章 | 
-|------|------------|------|------------|
-| Android版 | http://toly1994.com/file/FlutterUnit.apk |[flutter_unit](https://github.com/toly1994328/FlutterUnit)| [《FlutterUnit食用指南》](https://juejin.im/post/6844904147045597191)|
-| iOS版 | 暂未提供，可自己下载项目运行 |[flutter_unit](https://github.com/toly1994328/FlutterUnit)| [《FlutterUnit 食用指南》](https://juejin.im/post/6844904147045597191)|
-| MacOS版 | http://toly1994.com/file/flutter_unit_mac.zip |[flutter_unit_desk](https://github.com/toly1994328/FlutterUnit/tree/flutter_unit_desk)| [《mac版闪亮登场》](https://juejin.im/post/6844904147817332743)|
-| Windows版 |http://toly1994.com/file/FlutterUnitWin.zip  | [flutter_unit_desk](https://github.com/toly1994328/FlutterUnit/tree/flutter_unit_desk) | [《win版闪亮登场》](https://juejin.im/post/6847902222626488327)|
-| Web版 | http://toly1994328.gitee.io/flutter_web | [ flutter_unit_web ](https://github.com/toly1994328/FlutterUnit/tree/flutter_unit_web)  | [《web版闪亮登场》](https://juejin.im/post/6859888713980182541)|
+- 🔥  [掘金小册 -《Flutter 动画探索 - 流光幻影》](https://juejin.cn/book/6965102582473687071)
+- 🔥  [掘金小册 -《Flutter 滑动探索 - 珠联璧合》](https://juejin.cn/book/6984685333312962573)
+- 🔥  [掘金小册 -《Flutter 布局探索 - 薪火相传》](https://juejin.cn/book/7075958265250578469)
+- 🔥  [掘金小册 -《Flutter 渲染机制 - 聚沙成塔》](https://juejin.cn/book/6965102582473687071)
 
 ---
 
-> 当前Flutter 版本
+- [Flutter环境配置](https://github.com/toly1994328/FlutterUnit/issues/22)
+- [Flutter实用插件集录 ](https://github.com/toly1994328/FlutterUnit/issues/41)
+- [Flutter要点集录 ](https://github.com/toly1994328/FlutterUnit/labels/point)
 
-```
-Flutter 2.2.0 • channel stable • https://github.com/flutter/flutter.git
-Framework • revision b22742018b (7 days ago) • 2021-05-14 19:12:57 -0700
-Engine • revision a9d88a4d18
-Tools • Dart 2.13.0
-```
 
 ---
 
+#### 当前Flutter 版本
+
+```
+Flutter 3.19.2 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision bae5e49bc2 (8 days ago) • 2024-02-13 17:46:18 -0800
+Engine • revision 04817c99c9
+Tools • Dart 3.3.0 • DevTools 2.31.1
+```
+
+#### 构建命令,产出应用
+
+> Android 分架构打包:  flutter build apk --target-platform android-arm64 --split-per-abi   
+> iOS 打包应用:  flutter build ios  
+> Windows 打包应用:  flutter build windows  
+> Macos 打包应用:  flutter build macos  
+> Linux 打包应用:  flutter build linux  
+> web 打包应用:  flutter build web   
+
+---
+
+#### MacOS 桌面版本组件界面
+
+![](./doc/screens/macos-2.webp)
+
+#### Windows 桌面版本组件界面
+
+![](./doc/screens/windows-1.png)
+
+
+> 开源不易，请我喝咖啡 ~
+
+![](./doc/ewm/coffee1.webp)
+
+
+
+#### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=toly1994328/FlutterUnit&type=Date)](https://star-history.com/#toly1994328/FlutterUnit&Date)
 
 ### 一、组件的展示页面
 
@@ -43,9 +78,7 @@ FlutterUnit 对`大大小小，常用不常用`的组件能收的尽量收录。
 
 | . | . | . |
 |------|------------|------------|
-| ![](https://user-gold-cdn.xitu.io/2020/4/14/17175af35f63c8fb?w=1080&h=2340&f=jpeg&s=158267)|  ![](https://user-gold-cdn.xitu.io/2020/4/14/17175b0c1c92a004?w=1080&h=2340&f=jpeg&s=161619)|     ![](https://user-gold-cdn.xitu.io/2020/4/14/17175b0a95d5c549?w=1080&h=2340&f=jpeg&s=150406)       |
-|  ![](https://user-gold-cdn.xitu.io/2020/4/14/17175af9b09f76f6?w=1080&h=2340&f=jpeg&s=153575)   | ![](https://user-gold-cdn.xitu.io/2020/4/14/17175b0766ed455b?w=1080&h=2340&f=jpeg&s=166128)        |![](https://user-gold-cdn.xitu.io/2020/4/14/17175af6b9523083?w=1080&h=2340&f=jpeg&s=163290)      |
-
+| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6acf7b8a1d~tplv-t2oaga2asx-zoom-1.image)|   ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6ad06db455~tplv-t2oaga2asx-image.image)|      ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6ad085632b~tplv-t2oaga2asx-image.image)     |
 
 ---
 
@@ -57,12 +90,8 @@ FlutterUnit 对`大大小小，常用不常用`的组件能收的尽量收录。
 
 | . | . | . |
 |------|------------|------------|
-| ![](https://user-gold-cdn.xitu.io/2020/4/14/17175c3f21476fc5?w=1080&h=2340&f=jpeg&s=67728)| ![](https://user-gold-cdn.xitu.io/2020/4/14/17175c44a1cfa94c?w=1080&h=2340&f=jpeg&s=92664)|    ![](https://user-gold-cdn.xitu.io/2020/4/14/17175c4a7cd90126?w=1080&h=2340&f=jpeg&s=114306) |
-|  ![](https://user-gold-cdn.xitu.io/2020/4/14/17175c5171d0373f?w=1080&h=2340&f=jpeg&s=159437)  | ![](https://user-gold-cdn.xitu.io/2020/4/14/17175c56ce136676?w=1080&h=2340&f=jpeg&s=87311)       |![](https://user-gold-cdn.xitu.io/2020/4/14/17175c61623c6462?w=1080&h=2340&f=jpeg&s=108215)|
-
-
-
-
+| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6ad8ba98f1~tplv-t2oaga2asx-image.image)| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6afb3841c4~tplv-t2oaga2asx-image.image)|    ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6afb590185~tplv-t2oaga2asx-image.image) |
+|  ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6b0ad26b14~tplv-t2oaga2asx-image.image)  | ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6b13d3fb5b~tplv-t2oaga2asx-image.image)       |![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6b15efec19~tplv-t2oaga2asx-image.image)|
 
 ---
 
@@ -72,7 +101,8 @@ FlutterUnit 对`大大小小，常用不常用`的组件能收的尽量收录。
 
 | . | . | . |
 |------|------------|------------|
-| ![](https://user-gold-cdn.xitu.io/2020/4/14/17175df98f83e05c?w=362&h=724&f=gif&s=1061771)| ![](https://user-gold-cdn.xitu.io/2020/4/14/17175dcce9022ddc?w=362&h=724&f=gif&s=232124)|   ![](https://user-gold-cdn.xitu.io/2020/4/14/17175de9b348a26a?w=362&h=724&f=gif&s=946647)|
+| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6b177c5b67~tplv-t2oaga2asx-image.image)| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6b21cc116a~tplv-t2oaga2asx-image.image)|   ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6b2486b5a5~tplv-t2oaga2asx-image.image)|
+|  ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6b34887a94~tplv-t2oaga2asx-image.image) | ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6b3ca09b47~tplv-t2oaga2asx-image.image)      |![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6b3d4e0253~tplv-t2oaga2asx-image.image)|
 
 ---
 
@@ -80,11 +110,10 @@ FlutterUnit 对`大大小小，常用不常用`的组件能收的尽量收录。
 > `相关组件通过link to 可以进行切换, 满足你的探索欲。`
 如果有的关联未加入，欢迎联系我，对我来说，加个数字就行了。
 
-![](https://user-gold-cdn.xitu.io/2020/4/14/17175ea0ea610669?w=610&h=226&f=png&s=37961)
-
 | . | . | . |
 |------|------------|------------|
-|![](https://user-gold-cdn.xitu.io/2020/4/14/17175e8c2a46e1f3?w=362&h=724&f=gif&s=471182)|![](https://user-gold-cdn.xitu.io/2020/4/14/17175e921dfc5c81?w=362&h=724&f=gif&s=658708)|   ![](https://user-gold-cdn.xitu.io/2020/4/14/17175e968c4f68e4?w=362&h=724&f=gif&s=300803)|
+|![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6b4a4d6005~tplv-t2oaga2asx-image.image)|![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6b5066fbf0~tplv-t2oaga2asx-image.image)|   ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6b5359b695~tplv-t2oaga2asx-image.image)|
+
 
 ---
 
@@ -92,10 +121,10 @@ FlutterUnit 对`大大小小，常用不常用`的组件能收的尽量收录。
 > 激动人心的是，你可以通过右侧的图标`展开/隐藏 实现下面效果的代码`
 并且`支持分享`，如果你想亲自体验，so，easy ! 而且`代码高亮样式可以自定义`。
 
+
 | . | . | . |
 |------|------------|------------|
-| ![](https://user-gold-cdn.xitu.io/2020/4/14/171760369b9ae9d6?w=362&h=724&f=gif&s=1207409)| ![](https://user-gold-cdn.xitu.io/2020/4/14/1717603ad9119f2a?w=362&h=724&f=gif&s=1064037)|   ![](https://user-gold-cdn.xitu.io/2020/4/14/1717604b10154271?w=362&h=724&f=gif&s=2849830)|
-
+| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6b6badc1bb~tplv-t2oaga2asx-image.image)| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6b6e75653c~tplv-t2oaga2asx-image.image)|   ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6b72cdd78f~tplv-t2oaga2asx-image.image)|
 
 ---
 
@@ -107,9 +136,7 @@ FlutterUnit 对`大大小小，常用不常用`的组件能收的尽量收录。
 
 | . | . | . |
 |------|------------|------------|
-| ![](https://user-gold-cdn.xitu.io/2020/4/14/171760c51633383d?w=1080&h=2340&f=jpeg&s=94977)| ![](https://user-gold-cdn.xitu.io/2020/4/14/171760cbc7d0ddba?w=1080&h=2340&f=jpeg&s=89001) |    ![](https://user-gold-cdn.xitu.io/2020/4/14/171760b8c24c188f?w=1080&h=2340&f=jpeg&s=168263) |
-
-
+| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6c2e937170~tplv-t2oaga2asx-image.image)| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6c3253c4ec~tplv-t2oaga2asx-image.image) |    ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6c4f97f74d~tplv-t2oaga2asx-image.image) |
 
 ---
 
@@ -120,8 +147,7 @@ FlutterUnit 对`大大小小，常用不常用`的组件能收的尽量收录。
 
 | . | . | . |
 |------|------------|------------|
-| ![](https://user-gold-cdn.xitu.io/2020/4/14/1717615741f8d2e3?w=1080&h=2340&f=png&s=167438)| ![](https://user-gold-cdn.xitu.io/2020/4/14/171761667bbf6051?w=1080&h=2340&f=png&s=808002) |   ![](https://user-gold-cdn.xitu.io/2020/4/14/1717617b8ab59421?w=1080&h=2340&f=png&s=796618)|
-
+| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6c5448cb6c~tplv-t2oaga2asx-image.image)| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6c55542837~tplv-t2oaga2asx-image.image) |   ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6c5bec6c56~tplv-t2oaga2asx-image.image)|
 ---
 
 
@@ -131,8 +157,7 @@ FlutterUnit 对`大大小小，常用不常用`的组件能收的尽量收录。
 
 | . | . | . |
 |------|------------|------------|
-|![](https://user-gold-cdn.xitu.io/2020/4/14/1717620037fd9a50?w=1080&h=2340&f=jpeg&s=105051)| ![](https://user-gold-cdn.xitu.io/2020/4/14/1717620161fa89ec?w=1080&h=2340&f=jpeg&s=158327)| ![](https://user-gold-cdn.xitu.io/2020/4/14/171762026eb8656d?w=1080&h=2340&f=jpeg&s=146688)|
-
+|![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6c7d4b5988~tplv-t2oaga2asx-image.image)| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6c8935dfe1~tplv-t2oaga2asx-image.image)| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6c8f90d6ec~tplv-t2oaga2asx-image.image)| 
 ---
 
 #### 4.代码面板风格设置
@@ -141,7 +166,8 @@ FlutterUnit 对`大大小小，常用不常用`的组件能收的尽量收录。
 
 | . | . |
 |------|------------|
-|![](https://user-gold-cdn.xitu.io/2020/4/14/1717628b5fe1591c?w=1080&h=759&f=png&s=105023)| ![](https://user-gold-cdn.xitu.io/2020/4/14/1717629001ade9b0?w=1080&h=773&f=png&s=102672)|
+|![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6cac86d591~tplv-t2oaga2asx-image.image)| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6cac7d5bc7~tplv-t2oaga2asx-image.image)|
+![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6cb75e5450~tplv-t2oaga2asx-image.image)|![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6cd88c7ff9~tplv-t2oaga2asx-image.image)| 
 
 ---
 
@@ -158,7 +184,7 @@ FlutterUnit 对`大大小小，常用不常用`的组件能收的尽量收录。
 
 | . | . | . |
 |------|------------|------------|
-| ![](https://user-gold-cdn.xitu.io/2020/4/14/171775fc594e4605?w=1080&h=2340&f=png&s=265281)| ![](https://user-gold-cdn.xitu.io/2020/4/14/171775fd99268a78?w=1080&h=2340&f=png&s=424599)|    ![](https://user-gold-cdn.xitu.io/2020/4/14/171775fefef50fb9?w=1080&h=2340&f=png&s=414437) |
+| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6c1a355ad3~tplv-t2oaga2asx-image.image)| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6c211dfc99~tplv-t2oaga2asx-image.image)|    ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6c28562ec5~tplv-t2oaga2asx-image.image) |
 
 ---
 
@@ -166,25 +192,17 @@ FlutterUnit 对`大大小小，常用不常用`的组件能收的尽量收录。
 
 | 添加收藏集 | 修改收藏集 | 删除收藏集 |
 |------|------------|------------|
-| ![](https://user-gold-cdn.xitu.io/2020/4/23/171a7baf50b2d9f5?w=288&h=576&f=gif&s=447423)  | ![](https://user-gold-cdn.xitu.io/2020/4/23/171a7be9b43874ce?w=288&h=576&f=gif&s=881222)    | ![](https://user-gold-cdn.xitu.io/2020/4/23/171a7bfec06a2bb8?w=288&h=576&f=gif&s=837022)       | 
+| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6b7979f4ae~tplv-t2oaga2asx-image.image)  | ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6b97f00113~tplv-t2oaga2asx-image.image)    | ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6ba47f3fd2~tplv-t2oaga2asx-image.image)       | 
 
-| 长按左菜单滑页 | 长按右菜单滑页 | 详情内长按展示收藏菜单 |
+| 长按右菜单滑页 | 长按左菜单滑页 | 详情内长按展示收藏菜单 |
 |------|------------|------------|
-| ![](https://user-gold-cdn.xitu.io/2020/4/24/171a7c73230f803d?w=288&h=576&f=gif&s=563981) |![](https://user-gold-cdn.xitu.io/2020/4/24/171a7c7cb0780bc6?w=288&h=576&f=gif&s=628105)        | ![](https://user-gold-cdn.xitu.io/2020/4/23/171a7a6fa57e3c6f?w=288&h=576&f=gif&s=448572)       |
+| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6beb370b8b~tplv-t2oaga2asx-image.image) |![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6befe43cd2~tplv-t2oaga2asx-image.image)        | ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6bfd3cd42f~tplv-t2oaga2asx-image.image)       |
 
 | 删除与数据同步 | 组件加入收藏集 | 收藏集支持多选 |
 |------|------------|------------|
-| ![](https://user-gold-cdn.xitu.io/2020/4/23/171a76fd06702dda?w=288&h=576&f=gif&s=885232)  | ![](https://user-gold-cdn.xitu.io/2020/4/23/171a773c1bfd5153?w=288&h=576&f=gif&s=887426)        | ![](https://user-gold-cdn.xitu.io/2020/4/23/171a7c36021a18f9?w=288&h=576&f=gif&s=714061)   |
+| ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6ba47ab64c~tplv-t2oaga2asx-image.image)  | ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6badf6ee28~tplv-t2oaga2asx-image.image)        | ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/5/3/171dae6bb380c7f5~tplv-t2oaga2asx-image.image)   |
 
-> `FlutterUnit 1.0 `目前基本就是这么多功能，可以在Github中下载打包后的apk玩玩
+> `FlutterUnit 2.0 `目前基本就是这么多功能，可以在Github中下载打包后的apk玩玩
 希望能对你的Flutter学习有所帮助。
 
 ---
-
-#### 3.关于我与项目
-> 不多说，都在图里。
-
-| . | . | . |
-|------|------------|------------|
-|![](https://user-gold-cdn.xitu.io/2020/4/14/171777c67ed0c205?w=1080&h=2340&f=png&s=1272888)|![](https://user-gold-cdn.xitu.io/2020/4/14/171777c8ccfce16b?w=1080&h=2340&f=png&s=1105006)|     ![](https://user-gold-cdn.xitu.io/2020/4/14/171777caed85b26a?w=1080&h=2340&f=png&s=1190414)
-|
