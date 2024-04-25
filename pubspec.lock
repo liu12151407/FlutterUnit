@@ -15,6 +15,14 @@ packages:
       relative: true
     source: path
     version: "0.0.1"
+  app_boot_starter:
+    dependency: "direct main"
+    description:
+      name: app_boot_starter
+      sha256: "09c5473dc84d054dc5df86a45f7812b32f81a7d6c9ac02a3a04c7351f28893c9"
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "1.0.0"
   app_update:
     dependency: "direct main"
     description:
@@ -235,10 +243,10 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_bloc
-      sha256: e74efb89ee6945bcbce74a5b3a5a3376b088e5f21f55c263fc38cbdc6237faae
+      sha256: f0ecf6e6eb955193ca60af2d5ca39565a86b8a142452c5b24d96fb477428f4d2
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "8.1.3"
+    version: "8.1.5"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -306,10 +314,10 @@ packages:
     dependency: "direct main"
     description:
       name: go_router
-      sha256: c5fa45fa502ee880839e3b2152d987c44abae26d064a2376d4aad434cf0f7b15
+      sha256: "5ed2687bc961f33a752017ccaa7edead3e5601b28b6376a5901bf24728556b85"
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "12.1.3"
+    version: "13.2.2"
   http:
     dependency: transitive
     description:
@@ -362,6 +370,13 @@ packages:
     dependency: "direct main"
     description:
       path: "packages/l10n"
+      relative: true
+    source: path
+    version: "0.0.1"
+  layout:
+    dependency: "direct main"
+    description:
+      path: "packages/layout"
       relative: true
     source: path
     version: "0.0.1"
@@ -801,6 +816,22 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "1.0.1"
+  toly_menu:
+    dependency: transitive
+    description:
+      name: toly_menu
+      sha256: dce49e04dc4ed40168c7af6f4830c8a92e9760e2cb8392cc454d031e24aee055
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "0.0.5"
+  toly_menu_manager:
+    dependency: transitive
+    description:
+      name: toly_menu_manager
+      sha256: "34ba03d9996097244c25575ab062ed8a16ecaa46576e4efbe6b6bc60f4853300"
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "0.0.1"
   toly_ui:
     dependency: "direct main"
     description:
@@ -1045,5 +1076,5 @@ packages:
     source: hosted
     version: "1.0.1"
 sdks:
-  dart: ">=3.2.3 <4.0.0"
-  flutter: ">=3.10.0"
+  dart: ">=3.3.0 <4.0.0"
+  flutter: ">=3.16.0"
